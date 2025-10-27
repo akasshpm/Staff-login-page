@@ -61,7 +61,7 @@ To get started with this project locally, follow these steps:
 
 3. **Open the HTML file in your browser:**
 
-   You can open `staff_login.html` in your preferred web browser to see the Staff login page in action.
+   You can open `index.html` in your preferred web browser to see the Staff login page in action.
 
 ## Usage
 
@@ -69,11 +69,11 @@ To use or modify the Staff login page:
 
 1. **Edit the HTML file:**
 
-   Modify the `staff_login.html` file to change the structure or content of the Staff-login-page.
+   Modify the `index.html` file to change the structure or content of the Staff-login-page.
 
 2. **Customize the CSS file:**
 
-   Update the `staff_design.css` file to change the appearance of the Staff-login-page. You can adjust colors, fonts, layout, and more.
+   Update the `main.css` file to change the appearance of the Staff-login-page. You can adjust colors, fonts, layout, and more.
 
 3. **Customize the JS file:**
 
