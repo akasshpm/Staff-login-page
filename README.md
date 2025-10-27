@@ -87,7 +87,9 @@ To use or modify the Staff login page:
 
 <img width="1919" height="913" alt="Screenshot 2025-10-28 005936" src="https://github.com/user-attachments/assets/c066274c-9148-43a2-b833-898d826a35cb" />
 
+
 <img width="1919" height="914" alt="Screenshot 2025-10-28 005841" src="https://github.com/user-attachments/assets/eaf2bb86-eb71-4f08-b3f2-452a8683a8b0" />
+
 
 <img width="1917" height="906" alt="Screenshot 2025-10-28 005830" src="https://github.com/user-attachments/assets/d4b267ba-52ea-4c63-ae76-2fb49f274569" />
 
